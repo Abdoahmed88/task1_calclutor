@@ -1,0 +1,14 @@
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\task2 by switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\task2 by switch.AssemblyInfoInputs.cache
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\task2 by switch.AssemblyInfo.cs
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\task2 by switch.csproj.CoreCompileInputs.cache
+D:\C#\task2 by switch\task2 by switch\bin\Debug\net7.0\task2 by switch.exe
+D:\C#\task2 by switch\task2 by switch\bin\Debug\net7.0\task2 by switch.deps.json
+D:\C#\task2 by switch\task2 by switch\bin\Debug\net7.0\task2 by switch.runtimeconfig.json
+D:\C#\task2 by switch\task2 by switch\bin\Debug\net7.0\task2 by switch.dll
+D:\C#\task2 by switch\task2 by switch\bin\Debug\net7.0\task2 by switch.pdb
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\task2 by switch.dll
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\refint\task2 by switch.dll
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\task2 by switch.pdb
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\task2 by switch.genruntimeconfig.cache
+D:\C#\task2 by switch\task2 by switch\obj\Debug\net7.0\ref\task2 by switch.dll

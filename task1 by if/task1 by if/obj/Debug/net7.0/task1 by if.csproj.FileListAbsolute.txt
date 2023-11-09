@@ -1,0 +1,14 @@
+D:\C#\task1 by if\task1 by if\bin\Debug\net7.0\task1 by if.exe
+D:\C#\task1 by if\task1 by if\bin\Debug\net7.0\task1 by if.deps.json
+D:\C#\task1 by if\task1 by if\bin\Debug\net7.0\task1 by if.runtimeconfig.json
+D:\C#\task1 by if\task1 by if\bin\Debug\net7.0\task1 by if.dll
+D:\C#\task1 by if\task1 by if\bin\Debug\net7.0\task1 by if.pdb
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\task1 by if.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\task1 by if.AssemblyInfoInputs.cache
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\task1 by if.AssemblyInfo.cs
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\task1 by if.csproj.CoreCompileInputs.cache
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\task1 by if.dll
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\refint\task1 by if.dll
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\task1 by if.pdb
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\task1 by if.genruntimeconfig.cache
+D:\C#\task1 by if\task1 by if\obj\Debug\net7.0\ref\task1 by if.dll
